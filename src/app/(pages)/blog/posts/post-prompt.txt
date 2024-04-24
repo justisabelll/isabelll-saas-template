@@ -1,0 +1,31 @@
+AI Prompt to Generate Example Blog Posts (Please dont use this for real blog posts)
+
+Prompt: 
+Create a Markdown (mdx) article focused on a random technology-related topic.
+It should have all of the following elements:
+- A title
+- A subtitle
+- Other subheadings
+- A list of at least 5 items
+- Code blocks
+- A link to an external source
+- An image (use one that you know is available in the assets folder)
+
+
+Frontmatter Schema:
+---
+title: ''
+excerpt: ''
+image: ''
+publishedAt: ''
+author: ''
+ogImage:
+  url: ''
+---
+
+Ensure that you maintain the existing front matter schema. 
+For the image path, begin with '/assets/blog/default-gradients/'. 
+Here, you will need to select an image file that matches the naming convention already in place. 
+This consists of a two-digit number ranging from '01' to '15', 
+representing the sequence of available gradients.
+ Concatenate this number directly with the '.webp' file extension to complete the image path. 
