@@ -28,28 +28,10 @@ this is a template for a saas using a stack i like:
 - **payments w/ stripe**
   i believe these should be tailored to each app; however, i've made a repo to **demonstrate stripe payments in a next.js app** available [here](https://github.com/justisabelll/next-stripe-example) that provides a good starting point
 
-## todo:
+  going to add:
 
-- graceful error handling
-- og images
-
-credits:
-[shipfast by marc lou](https://shipfa.st)
-big project inspiration and component ideas
-
-[portfolio starter kit](https://vercel.com/templates/next.js/portfolio-starter-kit)
-blog logic and design from
-
-[tailwind ui](https://tailwindui.com)
-some components from tailwind ui and
-
-[hyperui](https://hyperui.dev)
-some components from hyperui
-
-[jason santos](https://jasonsantos.gumroad.com/l/JustGradients)
-for the default blog images
-
----
+- [ ] graceful error handling
+- [ ] og images
 
 ## setup checklist
 
@@ -73,3 +55,21 @@ for the default blog images
 you should be good to go
 
 deploy however you like, i like vercel
+
+---
+credits:
+[shipfast by marc lou](https://shipfa.st)
+big project inspiration and component ideas
+
+[portfolio starter kit](https://vercel.com/templates/next.js/portfolio-starter-kit)
+blog logic and design from
+
+[tailwind ui](https://tailwindui.com)
+some components from tailwind ui and
+
+[hyperui](https://hyperui.dev)
+some components from hyperui
+
+[jason santos](https://jasonsantos.gumroad.com/l/JustGradients)
+for the default blog images
+
